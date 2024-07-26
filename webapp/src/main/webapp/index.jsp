@@ -1,10 +1,12 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Please Register for Access!</h1>
-    <p>Please fill the Registration form</p>
+   
+    <p>Please fill the Registration <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <hr>
     <br>
-
+    
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
@@ -13,8 +15,8 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <label for="father"><b>Father-Name</b></label>
+    <input type="father-name" placeholder="Father-Name" name="father" id="father" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
