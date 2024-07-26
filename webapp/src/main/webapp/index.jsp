@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Please Register for Access!</h1>
-    <p>Please fill in this form</p>
+    <p>Please fill the Registration form</p>
     <hr>
     <br>
 
