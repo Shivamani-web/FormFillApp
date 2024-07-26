@@ -16,7 +16,11 @@
     <br>
 
     <label for="father"><b>Father-Name</b></label>
-    <input type="father-name" placeholder="Father-Name" name="father" id="father" required>
+    <input type="father-name" placeholder="Enter Father-Name" name="father" id="father" required>
+    <br>
+
+    <label for="mother"><b>Mother-Name</b></label>
+    <input type="mother-name" placeholder="Enter Mother-Name" name="mother" id="mother" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
